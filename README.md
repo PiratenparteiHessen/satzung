@@ -1,4 +1,4 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 16. - 17.10.2010
+Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 10. - 11.09.2011
 ========================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
@@ -55,7 +55,19 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (5) Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt. Der Austritt ist in Schriftform anzuzeigen.
 
-(6) Jedes Mitglied des Landesverbandes ist berechtigt Anträge an den Landesvorstand zu stellen.
+(6) Jedes Mitglied des Landesverbandes ist berechtigt Anträge an den Landesvorstand zu stellen. 
+
+(7) Jedes Mitglied des Landesverbandes ist berechtigt, ein virtuelles Meinungsbild durch den Landesvorstand einholen zu lassen, sofern ein versandfertiger, möglichst neutraler und den Sachverhalt ausreichend beschreibender Text für die Einladungs-E-Mail vorliegt, eine Wiki-Seite im korrekten Namensraum mit dem Sachverhalt und zur anschließenden Sammlung der Pro- und Kontra-Argumente eingerichtet ist und sich die eine beinhaltete Fragestellung mit Ja, Nein oder Enthaltung beantworten lässt.
+
+(8) Zwischen zwei Landesparteitagen kann der Landesverband neue politische Positionen beziehen, wenn dem ein virtuelles Meinungsbild vorausgegangen ist, welches alle folgende Bedingungen erfüllt:
+
+  1. Der Gegenstand der Positionierung ist klar zu formulieren.
+
+  2. Die Laufzeit des virtuellen Meinungsbildes muss mindestens 14 Tage betragen.
+
+  3. An dem virtuellen Meinungsbild müssen sich mindestens ein Zehntel der hessischen Piraten beteiligen.
+
+Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmenden hessischen Piraten dafür ausgesprochen haben. Diese ist nur bis zum nächsten Landesparteitag gültig.
 
 # § 5 - Beendigung der Mitgliedschaft
 
@@ -86,6 +98,14 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 (2) Die weitere Untergliederung des Landesverbandes erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
 
 (3) gestrichen
+
+(4) Die Deckungsgleichheit nach Abs. 2 ist auch hergestellt, wenn sich zwei benachbarte Untergliederungen gleicher Gliederungsebene zu einem Untergliederungsverband zusammenschließen, sofern keine politischen Grenzen der übergeordneten Gliederungen verletzt werden.
+
+(5) Dem Zusammenschluss müssen die Mitgliederversammlungen der beteiligten Gebietsverbände in geheimer Wahl zustimmen. Bei noch nicht existenten Gebietsverbänden ist die einfache Mehrheit ausreichend. Bei bereits existenten Gebietsverbänden, sofern es die Satzung des Gebietsverbandes nicht anders regelt, eine 2/3 Mehrheit. Die Abstimmung zum Zusammenschluss der Gebietsverbände muss in der Einladung zur Mitgliederversammlung aufgeführt sein.
+
+(6) Sofern es in der Satzung der zusammengeschlossenen Gliederung nicht anders geregelt wird, muss der Zusammenschluss jährlich von den Mitgliederversammlungen der einzelnen Gliederungen gemäß Abs. 5 bestätigt werden.
+
+(7) Der Name der Untergliederung setzt sich aus den Namen der beteiligten Gebietsverbänden und der Gliederungsebene zusammen.
 
 # § 8 - Bundespartei, Landesverband und nachgeordnete Gebietsverbände
 
