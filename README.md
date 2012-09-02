@@ -1,13 +1,13 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 16. - 17.8.2008
-=======================================================================================================================
+Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 14. - 15.11.2009
+========================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
 
-(1) Die Piratenpartei Deutschland Landesverband Hessen (PIRATEN Hessen) ist der hessische Landesverband der Piratenpartei Deutschland und eine Partei im Sinne des Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes. Sie vereinigt Piraten ohne Unterschied der Staatsangehörigkeit, des Standes, der Herkunft, der ethnischen Zugehörigkeit, des Geschlechts, der sexuellen Orientierung und des Bekenntnisses, die beim Aufbau und Ausbau eines demokratischen Rechtsstaates und einer modernen freiheitlichen Gesellschaftsordnung geprägt vom Geiste sozialer Gerechtigkeit mitwirken wollen. Totalitäre, diktatorische und faschistische Bestrebungen jeder Art lehnt die Piratenpartei Deutschland entschieden ab.
+(1) Die Piratenpartei Deutschland Landesverband Hessen (PIRATEN) ist der hessische Landesverband der Piratenpartei Deutschland und eine Partei im Sinne des Grundgesetzes der Bundesrepublik Deutschland und des Parteiengesetzes. Sie vereinigt Piraten ohne Unterschied der Staatsangehörigkeit, des Standes, der Herkunft, der ethnischen Zugehörigkeit, des Geschlechts, der sexuellen Orientierung und des Bekenntnisses, die beim Aufbau und Ausbau eines demokratischen Rechtsstaates und einer modernen freiheitlichen Gesellschaftsordnung geprägt vom Geiste sozialer Gerechtigkeit mitwirken wollen. Totalitäre, diktatorische und faschistische Bestrebungen jeder Art lehnt die Piratenpartei Deutschland entschieden ab.
 
 (2) Die Piratenpartei Deutschland Landesverband Hessen führt einen Namen und eine Kurzbezeichnung. Der Name lautet: Piratenpartei Deutschland Landesverband Hessen. Die offizielle Abkürzung des Parteinamens lautet: PIRATEN.
 
-(3) Der Sitz der Partei ist Frankfurt. Dort befindet sich auch die Landesgeschäftsstelle. Untergeordnete Verbände führen den Namen Piratenpartei Deutschland verbunden mit der Gliederungsform und dem Zusatz Hessen.
+(3) Der Sitz der Partei ist Frankfurt a.M. Dort befindet sich auch die Landesgeschäftsstelle. Untergeordnete Verbände führen den Namen Piratenpartei Deutschland verbunden mit der Gliederungsform und dem Namen der politischen Struktur der Bundesrepublik Deutschland, die sie umfasst.
 
 (4) Das Tätigkeitsgebiet der Piratenpartei Deutschland Landesverband Hessen ist das Bundesland Hessen.
 
@@ -29,7 +29,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
   2. jeder Pirat entsprechend seinem angezeigten Wohnsitz automatisch Mitglied dieser Gliederung.
 
-(2) Über die Aufnahme entscheidet der Vorstand der zuständigen Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt. Die Ablehnung des Aufnahmeantrags muss dem/der BewerberIn gegenüber schriftlich begründet werden.
+(2) Über die Aufnahme entscheidet der Vorstand der zuständigen Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt. Die Ablehnung des Aufnahmeantrags muss der Bewerberin bzw. dem Bewerber gegenüber schriftlich unter Hinweis auf die Rechtsmittel begründet werden.
 
 (2a) Jeder Pirat gehört grundsätzlich der Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz hat. Bei nachvollziehbaren Gründen, die den Organisationsinteressen nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in Schriftform und wird von der nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in Schriftform begründet werden und kann im Einspruchsverfahren zur letzten Entscheidung dem Schiedsgericht vorgelegt werden.
 
@@ -39,27 +39,25 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (4) Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über. Der Pirat hat den Wohnsitzwechsel unverzüglich der dem neuen Wohnsitz entsprechenden niedrigsten Gliederung anzuzeigen.
 
-(5) Über Aufnahmeanträge von Deutschen, die ihren Wohnsitz außerhalb Deutschlands haben, entscheidet der Bundesvorstand.
-
 (6) Jeder Pirat erhält einen Mitgliedsausweis.
 
 # § 4 - Rechte und Pflichten der Piraten
 
-(1) Jeder Pirat hat das Recht und die Pflicht, im Rahmen der Bundessatzung, dieser Satzung und der Satzung seines Gebietsverbandes die Zwecke der Piratenpartei Deutschland zu fördern und sich an der politischen und organisatorischen Arbeit der Piratenpartei Deutschland zu beteiligen. Jeder Pirat hat das Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung teilzunehmen. Ein Pirat kann nur dort in den Vorstand eines Gebietsverbandes gewählt werden, in der er seinen der Partei angezeigten Wohnsitz hat (Passives Wahlrecht). Eine Ämterkumulation ist nur in den Fällen zulässig, in denen die Mitgliederversammlung der Gliederung dies für den konkreten Einzelfall explizit beschließt.
+(1) Jeder Pirat hat das Recht und die Pflicht, im Rahmen der Bundessatzung und den Satzungen der Gliederungen, in denen er Mitglied ist, die Zwecke der Piratenpartei Deutschland zu fördern und sich an der politischen und organisatorischen Arbeit der Piratenpartei Deutschland zu beteiligen. Jeder Pirat hat das Recht an der politischen Willensbildung, an Wahlen und Abstimmungen im Rahmen der Satzung teilzunehmen. Ein Pirat kann nur dort in den Vorstand eines Gebietsverbandes gewählt werden, in denen er Mitglied ist (Passives Wahlrecht). Eine Ämterkumulation ist nur in den Fällen zulässig, in denen die Mitgliederversammlung der Gliederung dies für den konkreten Einzelfall explizit beschließt.
 
 (2) Interna können per mehrheitlichem Beschluss als Verschlusssache deklariert werden. Über Verschlusssachen ist Verschwiegenheit zu wahren. Verschlusssachen können per mehrheitlichem Beschluss von diesem Status befreit werden.
 
 (3) Alle Piraten haben gleiches Stimmrecht.
 
-(4) Die Ausübung des Stimmrechts ist nur möglich, wenn der Pirat seinen der Partei angezeigten Wohnsitz im Gebietsverband hat und mit seinen Mitgliedsbeiträgen nicht mehr als drei Monate im Rückstand ist. (Aktives Wahlrecht)
+(4) Die Ausübung des Stimmrechts ist nur möglich, wenn der Pirat mit seinen Mitgliedsbeiträgen nicht mehr als drei Monate im Rückstand ist. (Aktives Wahlrecht)
 
-(5) Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt (Schriftform und Unterschrift erforderlich). Bereits bezahlte Beiträge werden nicht zurückerstattet.
+(5) Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt. Der Austritt ist in Schriftform anzuzeigen.
 
 # § 5 - Beendigung der Mitgliedschaft
 
 (1) Die Mitgliedschaft endet durch Tod, Austritt, Verlust oder Aberkennung der Wählbarkeit oder des Wahlrechts, Aufgabe des Wohnsitzes in Deutschland bei Ausländern oder dem Ausschluss aus der Partei.
 
-(2) Bei Beendigung der Mitgliedschaft ist der Mitgliedsausweis zurückzugeben. Ein Anspruch auf Rückzahlung von Beiträgen besteht nicht.
+(2) Bei Beendigung der Mitgliedschaft ist der Mitgliedsausweis zurückzugeben.
 
 # § 6 - Ordnungsmaßnahmen
 
@@ -67,7 +65,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (2) Ein Pirat kann nur dann ausgeschlossen werden, wenn er vorsätzlich gegen die Satzung oder erheblich gegen die Grundsätze oder die Ordnung der Piratenpartei Deutschland verstößt und ihr damit schweren Schaden zufügt.
 
-(3) Die in Absatz 1 genannten Ordnungsmaßnahmen bis auf den Ausschluss werden vom Landesvorstand angeordnet. Die Satzungen niederer Gliederungen können dementsprechende ergänzende Regelungen treffen. Den Antrag auf Ausschluss stellt der Landesvorstand beim nach der Schiedsgerichtsordnung zuständigen Schiedsgericht, das hierüber entscheidet. Die Berufung an ein Schiedsgericht höherer Stufe ist zu gewährleisten. In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Vorstand der Partei oder eines Gebietsverbandes ein Mitglied von der Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschließen. Der Vorstand muss dem Mitglied den Beschluss der Ordnungsmaßnahme in Schriftform unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+(3) Die in Absatz 1 genannten Ordnungsmaßnahmen Verwarnung und Verweis werden vom Landesvorstand angeordnet. Die Satzungen niederer Gliederungen können dementsprechende ergänzende Regelungen treffen. Den Antrag auf Enthebung von einem Parteiamt, Aberkennung der Fähigkeit ein Parteiamt zu bekleiden und Ausschluss stellt der Landesvorstand beim nach der Schiedsgerichtsordnung zuständigen Schiedsgericht, das hierüber entscheidet. Die Berufung an ein Schiedsgericht höherer Stufe ist zu gewährleisten. In dringenden und schwerwiegenden Fällen, die sofortiges Eingreifen erfordern, kann der Vorstand der Partei oder eines Gebietsverbandes ein Mitglied von der Ausübung seiner Rechte bis zur Entscheidung des Schiedsgerichts ausschließen. Der Vorstand muss dem Mitglied den Beschluss der Ordnungsmaßnahme in Schriftform unter Angabe von Gründen und der Rechtsmittel mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 
 (4) Die Mitgliedschaft ruht im Falle eines Ausschlusses bis zum Abschluss eines möglichen Berufungsverfahrens.
 
@@ -79,13 +77,9 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 # § 7 - Gliederung
 
-(1) Die Piratenpartei Deutschland gliedert sich in Landesverbände. Die Landesverbände können nach ihren örtlichen Bedürfnissen Untergliederungen schaffen. Innerhalb der staatsrechtlichen Grenzen eines Landes gibt es nur einen Landesverband.
+(2) Die weitere Untergliederung des Landesverbandes erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
 
-(2) Die weitere Untergliederung der Landesverbände erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
-
-(3) Gebietsverbände und Auslandsgruppen sollen sich nicht wirtschaftlich betätigen, ausgenommen hiervon sind der Bundesverband und die Landesverbände.
-
-# § 8 – Bundespartei, Landesverband und nachgeordnete Gebietsverbände
+# § 8 - Bundespartei, Landesverband und nachgeordnete Gebietsverbände
 
 (1) Der Landesverband Hessen ist verpflichtet, alles zu tun, um die Einheit der Piratenpartei Deutschland zu sichern sowie alles zu unterlassen, was sich gegen die Grundsätze, die Ordnung oder das Ansehen der Piratenpartei Deutschland richtet. Er hat auch seine Organe zu einer gleichen Verhaltensweise anzuhalten.
 
@@ -95,9 +89,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 # § 9 - Organe der Landespartei
 
-(1) Organe sind der Vorstand, der Landesparteitag, das Landesschiedsgericht und die Gründungsversammlung.
-
-(2) Die Gründungsversammlung tagt nur einmal, und zwar am 16.02.2007.
+Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
 
 # § 9a - Der Landesvorstand
 
@@ -105,13 +97,13 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (2) Der Landesvorstand vertritt die Piratenpartei Deutschland Landesverband Hessen nach innen und außen. Er führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
-(3) Die Mitglieder des Landesvorstandes werden vom Landesparteitag oder der Gründungsversammlung in geheimer Wahl für die Dauer von einem Jahr gewählt.
+(3) Die Mitglieder des Landesvorstandes werden vom Landesparteitag in geheimer Wahl für die Dauer von einem Jahr gewählt. Sie übernehmen darüber hinaus kommissarisch die Aufgaben bis zur Bildung eines neuen Landesvorstands.
 
-(4) Der Landesvorstand tritt mindestens monatlich auf einer offenen Vorstandssitzung zusammen. Zusätzliche Zusammenkünfte werden vom Landesvorsitzenden oder bei dessen Verhinderung von einem seiner Stellvertreter schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes einberufen. Bei außerordentlichen Anlässen kann die Einberufung auch kurzfristiger erfolgen.
+(4) Der Landesvorstand tritt mindestens monatlich auf einer offenen Vorstandssitzung zusammen. Zusätzliche Zusammenkünfte werden vom Landesvorsitzenden oder bei dessen Verhinderung von einem seiner Stellvertreter mit einer Frist von einer Woche unter Angabe des Fundortes der Tagesordnung und des Tagungsortes einberufen. Bei außerordentlichen Anlässen kann die Einberufung auch kurzfristiger erfolgen.
 
 (5) Auf Antrag eines Hundertstel der Piraten kann der Landesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
 
-(6) Der Landesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Landesparteitages bzw. der Gründungsversammlung.
+(6) Der Landesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Landesparteitages.
 
 (7) Der Landesvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
 
@@ -129,7 +121,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (8) Die Führung der Landesgeschäftsstelle wird durch den Vorstand beauftragt und beaufsichtigt.
 
-(9) Der Landesvorstand liefert zum Parteitag einen schriftlichen Tätigkeitsbericht ab. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Landesparteitag oder der neue Vorstand gegen ihn Ansprüche geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
+(9) Der Landesvorstand gibt zur Einladung zum Parteitag einen schriftlichen Tätigkeitsbericht ab. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Landesparteitag oder der neue Vorstand gegen ihn Ansprüche geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
 
 (10) Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben nicht mehr nachkommen, so geht seine Kompetenz wenn möglich auf ein anderes Vorstandsmitglied über. Der Landesvorstand gilt als nicht handlungsfähig, wenn mehr als zwei Vorstandsmitglieder zurückgetreten sind oder ihren Aufgaben nicht mehr nachkommen können oder wenn die Posten des Vorsitzenden, Generalsekretärs oder des Schatzmeisters unbesetzt sind oder wenn der Landesvorstand sich selbst für handlungsunfähig erklärt. In einem solchen Fall ist schnellstmöglich eine außerordentliche Mitgliederversammlung einzuberufen und vom restlichen Landesvorstand zur Weiterführung der Geschäfte eine kommissarische Vertretung zu ernennen. Für diese ist Ämterkummulation abweichend von §4 (1) ohne expliziten Beschluss der Mitgliederversammlung möglich, endet jedoch mit Beschlussfassung der Mitgliederversammlung. Die kommissarische Vertretung hat über ihre Tätigkeit gegenüber dem Landsparteitag Rechenschaft zu leisten."
 
@@ -161,7 +153,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 # § 11 - Zulassung von Gästen
 
-(1) Der Landesparteitag, der Landesvorstand und die Gründungsversammlung können durch Beschluss Gäste zulassen.
+(1) Der Landesparteitag und der Landesvorstand können durch Beschluss Gäste zulassen.
 
 (2) Ein Stimmrecht haben die Gäste nicht.
 
@@ -185,13 +177,13 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (5) Die nachgeordneten Gebietsverbände haben eine Bestimmung in ihrer Satzung aufzunehmen, wonach Beschlüsse über ihre Auflösung oder Verschmelzung zur Rechtskraft der Zustimmung eines Landesparteitages bedürfen.
 
-# § 14 - Verbindlichkeit dieser Landessatzung
+# § 14 - Grundsätzliche Gültigkeit der Bundessatzung
 
-(1) Die Satzungen der Landesverbände und ihrer Untergliederungen müssen mit den grundsätzlichen Regelungen der Bundessatzung übereinstimmen.
+Die Satzungen der Untergliederungen müssen mit den grundsätzlichen Regelungen der Bundessatzung und der Landessatzung übereinstimmen.
 
 # § 15 - Parteiämter
 
-(1) Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in der Piratenpartei Deutschland sind Ehrenämter. Eine Vergütung für ehrenamtliche Tätigkeit ist ausgeschlossen.
+(1) Die nicht beruflich ausgeübten Funktionen und Tätigkeiten in der Piratenpartei Deutschland sind Ehrenämter.
 
 (2) Notwendige Kosten und Auslagen, die einem Amtsträger, einem beauftragten Piraten oder einem Bewerber bei öffentlichen Wahlen, durch Ausübung des Amtes, des Auftrages oder der Kandidatur erwachsen, werden auf Antrag mit entsprechenden Nachweisen erstattet.
 
@@ -201,17 +193,20 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (1) Es gilt die Finanzordnung der Bundespartei in der aktuellen Form.
 
-(2) Abweichend von und gemäß §2 (6) der Finanzordnung der Bundespartei gilt folgender Verteilerschlüssel.
+(2) Abweichend von und gemäß der Bundessatzung 2.2 §2 (6) gilt folgender Verteilerschlüssel.
 
   Der Landesverband erhält 15%.
 
-  Der für das Mitglied zuständige Bezirksverband erhält 15%.
+  Der für das Mitglied zuständige Bezirksverband erhält 10%.
 
-  Der für das Mitglied zuständige Kreisverband erhält 20%.
+  Der für das Mitglied zuständige Kreisverband erhält 15%.
 
   Der für das Mitglied zuständige Ortsverband erhält 20%.
 
-(3) §2 (7) der Finanzordnung der Bundespartei gilt entsprechend.
+(3) §2 (7) aus Abschnitt 2.2 der Satzung der Bundespartei gilt entsprechend.
+
+(4) §5 (Kontoführung) der Bundesfinanzordnung wird wie folgt ergänzt:
+Verfügungsberechtigt über das Konto ist in erster Linie der Schatzmeister. Zur Vertretung des Schatzmeisters ist jedes Vorstandsmitglied berechtigt, der Schatzmeister selbst ernennt hierbei einen direkten Vertreter aus dem Vorstand.
 
 # Abschnitt C: Schiedsgerichtsordnung
 
