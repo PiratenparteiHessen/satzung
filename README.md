@@ -1,4 +1,4 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 14. - 15.11.2009
+Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 16. - 17.10.2010
 ========================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
@@ -39,6 +39,8 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (4) Bei einem Wohnsitzwechsel in das Gebiet einer anderen Gliederung geht die Mitgliedschaft über. Der Pirat hat den Wohnsitzwechsel unverzüglich der dem neuen Wohnsitz entsprechenden niedrigsten Gliederung anzuzeigen.
 
+(5) gestrichen
+
 (6) Jeder Pirat erhält einen Mitgliedsausweis.
 
 # § 4 - Rechte und Pflichten der Piraten
@@ -52,6 +54,8 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 (4) Die Ausübung des Stimmrechts ist nur möglich, wenn der Pirat mit seinen Mitgliedsbeiträgen nicht mehr als drei Monate im Rückstand ist. (Aktives Wahlrecht)
 
 (5) Jeder Pirat ist jederzeit zum sofortigen Austritt aus der Partei berechtigt. Der Austritt ist in Schriftform anzuzeigen.
+
+(6) Jedes Mitglied des Landesverbandes ist berechtigt Anträge an den Landesvorstand zu stellen.
 
 # § 5 - Beendigung der Mitgliedschaft
 
@@ -77,7 +81,11 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 # § 7 - Gliederung
 
+(1) gestrichen
+
 (2) Die weitere Untergliederung des Landesverbandes erfolgt in Orts-, Kreis- und Bezirksverbände, die deckungsgleich mit den politischen Grenzen der Regierungsbezirke, Kreise, kreisfreien Städte und Gemeinden sind.
+
+(3) gestrichen
 
 # § 8 - Bundespartei, Landesverband und nachgeordnete Gebietsverbände
 
@@ -89,7 +97,9 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 # § 9 - Organe der Landespartei
 
-Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
+(1) Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
+
+(2) gestrichen
 
 # § 9a - Der Landesvorstand
 
@@ -121,9 +131,9 @@ Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
 
 (8) Die Führung der Landesgeschäftsstelle wird durch den Vorstand beauftragt und beaufsichtigt.
 
-(9) Der Landesvorstand gibt zur Einladung zum Parteitag einen schriftlichen Tätigkeitsbericht ab. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Landesparteitag oder der neue Vorstand gegen ihn Ansprüche geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
+(9) Der Landesvorstand gibt zur Einladung zum Parteitag den Fundort der schriftlichen Tätigkeitsbericht an. Spätestens mit dem Versand der Tagesordnung in aktueller Fassung hat der Tätigkeitsbericht vorzuliegen. Dieser umfasst alle Tätigkeitsgebiete der Vorstandsmitglieder, wobei diese in Eigenverantwortung des Einzelnen erstellt werden. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann der Landesparteitag oder der neue Vorstand gegen ihn Ansprüche geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieser unverzüglich einen Tätigkeitsbericht zu erstellen und dem Vorstand zuzuleiten.
 
-(10) Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben nicht mehr nachkommen, so geht seine Kompetenz wenn möglich auf ein anderes Vorstandsmitglied über. Der Landesvorstand gilt als nicht handlungsfähig, wenn mehr als zwei Vorstandsmitglieder zurückgetreten sind oder ihren Aufgaben nicht mehr nachkommen können oder wenn die Posten des Vorsitzenden, Generalsekretärs oder des Schatzmeisters unbesetzt sind oder wenn der Landesvorstand sich selbst für handlungsunfähig erklärt. In einem solchen Fall ist schnellstmöglich eine außerordentliche Mitgliederversammlung einzuberufen und vom restlichen Landesvorstand zur Weiterführung der Geschäfte eine kommissarische Vertretung zu ernennen. Für diese ist Ämterkummulation abweichend von §4 (1) ohne expliziten Beschluss der Mitgliederversammlung möglich, endet jedoch mit Beschlussfassung der Mitgliederversammlung. Die kommissarische Vertretung hat über ihre Tätigkeit gegenüber dem Landsparteitag Rechenschaft zu leisten."
+(10) Tritt ein Vorstandsmitglied zurück bzw. kann dieses seinen Aufgaben nicht mehr nachkommen, so geht seine Kompetenz wenn möglich auf ein anderes Vorstandsmitglied über. Der Landesvorstand gilt als nicht handlungsfähig, wenn mehr als zwei Vorstandsmitglieder zurückgetreten sind oder ihren Aufgaben nicht mehr nachkommen können oder wenn die Posten des Vorsitzenden, Generalsekretärs oder des Schatzmeisters nicht mehr besetzt werden können oder wenn der Landesvorstand sich selbst für handlungsunfähig erklärt. In einem solchen Fall ist schnellstmöglich eine außerordentliche Mitgliederversammlung einzuberufen und vom restlichen Landesvorstand zur Weiterführung der Geschäfte eine kommissarische Vertretung zu ernennen. Für diese ist Ämterkummulation abweichend von §4 (1) ohne expliziten Beschluss der Mitgliederversammlung möglich, endet jedoch mit Beschlussfassung der Mitgliederversammlung. Die kommissarische Vertretung hat über ihre Tätigkeit gegenüber dem Landsparteitag Rechenschaft zu leisten."
 
 (11) Tritt der gesamte Vorstand geschlossen zurück oder kann seinen Aufgaben nicht mehr nachkommen, so führt der Bundesvorstand kommissarisch die Geschäfte bis ein von ihm einberufener außerordentlicher Parteitag schnellstmöglich stattgefunden und einen neuen Landesvorstand gewählt hat.
 
@@ -141,9 +151,9 @@ Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
 
 (6) Der Landesparteitag nimmt den Tätigkeitsbericht des Landesvorstandes entgegen und entscheidet daraufhin über seine Entlastung.
 
-(7) Der Landesparteitag wählt mindestens zwei Kassenprüfer. Diesen obliegen die Prüfung des finanziellen Tätigkeitsberichtes für den folgenden Landesparteitag. Sie haben das Recht, kurzfristig Einsicht in alle finanzrelevanten Unterlagen zu verlangen, die ihnen auf Verlangen vollständig zu übergeben sind. Sie sind gehalten, etwa zwei Wochen vor dem Landesparteitag eine Prüfung der Finanzen durchzuführen als Grundlage ihres Abschlussberichts an den Parteitag. Die Amtszeit der Kassenprüfer ist deckungsgleich mit der Amtszeit der Mitglieder des Landesvorstandes.
+(7) Der Landesparteitag wählt mindestens zwei und höchstens drei Rechnungsprüfer gemäß dem Gesetz über die politischen Parteien (PartG) § 9 Absatz 5. Diesen obliegen die Vorprüfung des finanziellen Tätigkeitsberichts für den folgenden Landesparteitag und die Vorprüfung, ob die Finanzordnung und das PartG eingehalten werden. Die Prüfer berichten dem Landesparteitag das Ergebnis der Prüfung und geben eine Empfehlung zur Entlastung des Vorstandes ab. Sie haben das Recht, kurzfristig Einsicht in alle finanzrelevanten Unterlagen des Landesverbandes und seiner Gliederungen zu verlangen. Auf Verlangen sind die Unterlagen im Original zu übergeben. Die Amtszeit der Rechnungsprüfer ist deckungsgleich mit der Amtszeit des Landesvorstandes.
 
-(8) Der Landesparteitag wählt zwei Rechnungsprüfer, die den finanziellen Teil des Tätigkeitsberichtes des Vorstandes vor der Beschlussfassung über ihn prüfen. Das Ergebnis der Prüfung wird dem Parteitag verkündet und zu Protokoll genommen. Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen.
+(8) gestrichen
 
 # § 10 - Bewerberaufstellung für die Wahlen zu Volksvertretungen
 
@@ -151,9 +161,11 @@ Organe sind der Vorstand, der Landesparteitag und das Landesschiedsgericht.
 
 (2) Landeslistenbewerber sollen ihren Wohnsitz im entsprechenden Bundesland haben, Kreisbewerber im entsprechenden Wahlkreis.
 
+(3) Dem Landesverband untergeordnete Regionen ohne eigenständigen Gebietsverband können durch lokale Mitgliederversammlungen Wahlvorschläge und Wahlprogramme verabschieden. Zur Mitgliederversammlungen von Regionen ohne eigenständigen Gebietsverband lädt der Landesvorstand oder ein von Landesvorstand beauftragtes Mitglied ein. Die Einladungsfrist beträgt in solchen Fällen 14 Tage.
+
 # § 11 - Zulassung von Gästen
 
-(1) Der Landesparteitag und der Landesvorstand können durch Beschluss Gäste zulassen.
+(1) Der Landesparteitag und der Landesvorstand können durch Beschluss Gäste ausschließen.
 
 (2) Ein Stimmrecht haben die Gäste nicht.
 
@@ -193,15 +205,15 @@ Die Satzungen der Untergliederungen müssen mit den grundsätzlichen Regelungen 
 
 (1) Es gilt die Finanzordnung der Bundespartei in der aktuellen Form.
 
-(2) Abweichend von und gemäß der Bundessatzung 2.2 §2 (6) gilt folgender Verteilerschlüssel.
+(2) Abweichend von und gemäß der Bundessatzung 2.2 §2 (6) gilt folgender Verteilerschlüssel:
 
-  Der Landesverband erhält 15%.
+  Der Landesverband erhält 15%. 
 
-  Der für das Mitglied zuständige Bezirksverband erhält 10%.
+  Der für das Mitglied zuständige Bezirksverband erhält 10%. 
 
-  Der für das Mitglied zuständige Kreisverband erhält 15%.
+  Der für das Mitglied zuständige Kreisverband erhält 15%. 
 
-  Der für das Mitglied zuständige Ortsverband erhält 20%.
+  Der für das Mitglied zuständige Ortsverband erhält 20%. 
 
 (3) §2 (7) aus Abschnitt 2.2 der Satzung der Bundespartei gilt entsprechend.
 
