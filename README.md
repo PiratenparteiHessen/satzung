@@ -1,4 +1,4 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 10. - 11.09.2011
+Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
 ========================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
@@ -161,13 +161,13 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 (1) Der Landesparteitag ist die Mitgliederversammlung auf Landesebene.
 
-(2) Der Landesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn ein Zehntel der Piraten es beantragen. Der Vorstand lädt jedes Mitglied schriftlich (Brief, Fax oder signierte E-Mail) mindestens 6 Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
+(2) Der Landesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn mindestens zweimal die Wurzel aus der Zahl der Mitglieder der Piratenpartei Deutschland, Landesverband Hessen es beantragen. Der Vorstand lädt jedes Mitglied mindestens 6 Wochen vorher in Textform ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 
-(3) Alle Piraten werden zuerst per E-Mail eingeladen. Die E-Mail enthält einen Link, über welchen die Piraten ihre Teilnahme oder Absage am Parteitag bekanntgeben können. Piraten die nicht auf die E-Mail reagieren werden fristgerecht per Fax (wenn Faxnummer hinterlegt) oder Brief eingeladen.
+(3) gestrichen
 
-(4) Ist der Landesverband in seiner Existenz, Handlungsfähigkeit oder die Beteiligung an der politischen Willensbildung bedroht kann ein außerordentlicher Landesparteitag einberufen werden. Dies geschieht schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Abwendung genannter Bedrohungen.
+(4) Ist der Landesverband in seiner Existenz, Handlungsfähigkeit oder die Beteiligung an der politischen Willensbildung bedroht kann ein außerordentlicher Landesparteitag einberufen werden. Dies geschieht in Textform mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Abwendung genannter Bedrohungen.
 
-(5) Ist der Landesvorstand handlungsunfähig, kann ein außerordentlicher Landesparteitag einberufen werden. Dies geschieht schriftlich mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Wahl eines neues Vorstandes.
+(5) Ist der Landesvorstand handlungsunfähig, kann ein außerordentlicher Landesparteitag einberufen werden. Dies geschieht in Textform mit einer Frist von zwei Wochen unter Angabe der Tagesordnung und des Tagungsortes. Er dient ausschließlich der Wahl eines neues Vorstandes.
 
 (6) Der Landesparteitag nimmt den Tätigkeitsbericht des Landesvorstandes entgegen und entscheidet daraufhin über seine Entlastung.
 
@@ -197,6 +197,8 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 (3) Die Regelungen aus Absatz 1 gelten ebenso für eine Änderung des Programms der Piratenpartei Deutschland Landesverband Hessen.
 
+(4) Die Regelungen aus Absatz 1 gelten ebenso für die Annahme von Positionspapieren der Piratenpartei Deutschland Landesverband Hessen. Positionspapiere dienen der defensiven Programmentwicklung und sind bis zum nächsten Landesparteitag gültig. Sie können mittels einfacher Mehrheit einmalig verlängert werden.
+
 # § 13 - Auflösung und Verschmelzung
 
 (1) Die Auflösung oder Verschmelzung eines Landesverbandes kann durch einen Beschluss des Bundesparteitages mit einer Mehrheit von 3/4 der zum Bundesparteitag Stimmberechtigten beschlossen werden.
@@ -221,24 +223,29 @@ Die Satzungen der Untergliederungen müssen mit den grundsätzlichen Regelungen 
 
 (3) Höhe und Umfang der Erstattungen werden vom Bundesvorstand und von den Landesverbänden für ihren jeweiligen Zuständigkeitsbereich einheitlich geregelt. Abweichende Regelungen der nachgeordneten Gliederungen dürfen die Regelungen des Landesverbandes nicht überschreiten.
 
+# § 16 - Trennung von Amt und Mandat
+
+(1) Eine Kumulation von Amt und Mandat jenseits der kommunalen Ebene ist generell unzulässig.
+
+(2) Über Ausnahmen zu Absatz 1 kann der Landesparteitag mit einfacher Mehrheit entscheiden.
+
 # Abschnitt B: Finanzordnung
 
 (1) Es gilt die Finanzordnung der Bundespartei in der aktuellen Form.
 
-(2) Abweichend von und gemäß der Bundessatzung 2.2 §2 (6) gilt folgender Verteilerschlüssel:
+(2) Abweichend von und gemäß der Bundesfinanzordnung § 6 (2) gilt folgender Verteilerschlüssel:
 
-  Der Landesverband erhält 15%. 
+  Der Landesverband erhält 15%.
 
-  Der für das Mitglied zuständige Bezirksverband erhält 10%. 
-
-  Der für das Mitglied zuständige Kreisverband erhält 15%. 
-
+  Der für das Mitglied zuständige Bezirksverband erhält 10%.
+  
+  Der für das Mitglied zuständige Kreisverband erhält 15%.
+  
   Der für das Mitglied zuständige Ortsverband erhält 20%. 
 
-(3) §2 (7) aus Abschnitt 2.2 der Satzung der Bundespartei gilt entsprechend.
+(3) § 6 (3) der Bundesfinanzordnung gilt entsprechend.
 
-(4) §5 (Kontoführung) der Bundesfinanzordnung wird wie folgt ergänzt:
-Verfügungsberechtigt über das Konto ist in erster Linie der Schatzmeister. Zur Vertretung des Schatzmeisters ist jedes Vorstandsmitglied berechtigt, der Schatzmeister selbst ernennt hierbei einen direkten Vertreter aus dem Vorstand.
+(4) Verfügungsberechtigt über das Konto ist in erster Linie der Schatzmeister. Zur Vertretung des Schatzmeisters ist jedes Vorstandsmitglied berechtigt, der Schatzmeister selbst ernennt hierbei einen direkten Vertreter aus dem Vorstand.
 
 # Abschnitt C: Schiedsgerichtsordnung
 
