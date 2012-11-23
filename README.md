@@ -63,7 +63,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
   1. Der Gegenstand der Positionierung ist klar zu formulieren.
 
-  2. Die Laufzeit des virtuellen Meinungsbildes muss mindestens 14 Tage betragen.
+  2. Die Laufzeit des virtuellen Meinungsbildes muss mindestens 14 Tage betragen. In dringenden Fällen kann die Laufzeit auf 7 oder 3 Tage verkürzt werden.
 
   3. An dem virtuellen Meinungsbild müssen sich mindestens ein Zehntel der hessischen Piraten beteiligen.
 
