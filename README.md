@@ -203,13 +203,25 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 # § 12 - Satzungs- und Programmänderung
 
-(1) Änderungen der Landessatzung können nur von einem Landesparteitag mit einer 2/3 Mehrheit beschlossen werden. Besteht das dringende Erfordernis einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch geändert werden, wenn mindestens 2/3 der dem Landesverband angehörenden Piraten sich mit dem Antrag/den Anträgen auf Änderung schriftlich einverstanden erklären.
+(1) Änderungen der Satzung und des Programms der Piratenpartei Deutschland Landesverband Hessen können nur von einem Landesparteitag mit einer Zweidrittelmehrheit beschlossen werden. Besteht das dringende Erfordernis einer Satzungsänderung zwischen zwei Parteitagen, so kann die Satzung auch geändert werden, wenn mindestens Zweidrittel der dem Landesverband angehörenden Piraten sich mit dem Antrag oder den Anträgen auf Änderung schriftlich einverstanden erklären.
 
-(2) Über einen Antrag auf Satzungsänderung auf einem Landesparteitag kann nur abgestimmt werden, wenn er mindestens vier Wochen vor Beginn des Landesparteitages beim Landesvorstand eingegangen ist.
+(2) Anträge auf Satzungs- oder Programmänderungen können nur auf dem Landesparteitag berücksichtigt werden, wenn sie fristgerecht beim Landesvorstand gestellt wurden. Die Fristen ergeben sich aus folgenden drei Phasen:
 
-(3) Die Regelungen aus Absatz 1 gelten ebenso für eine Änderung des Programms der Piratenpartei Deutschland Landesverband Hessen.
+  1. Einreichungsphase:
 
-(4) Die Regelungen aus Absatz 1 gelten ebenso für die Annahme von Positionspapieren der Piratenpartei Deutschland Landesverband Hessen. Positionspapiere dienen der defensiven Programmentwicklung und sind bis zum nächsten Landesparteitag gültig. Sie können mittels einfacher Mehrheit einmalig verlängert werden.
+  Anträge auf Satzungs- oder Programmänderung sind bis 8 Wochen vor dem Landesparteitag beim Landesvorstand einzureichen. In Ausnahmefällen kann ein Landesparteitag dies mit einfacher Mehrheit für den nachfolgenden Landesparteitag auf 6 Wochen verkürzen.
+
+  2. Änderungsphase:
+
+  Fristgerecht eingereichte Anträge auf Satzungs- oder Programmänderung sind bis 4 Wochen vor dem Landesparteitag änderbar. Innerhalb dieser Frist können nur noch Alternativanträge, die den gleichen Gegenstand eines eingreichten Antrags betreffen, beim Landesvorstand eingereicht werden.
+
+  3. Vorbereitungsphase:
+
+  4 Wochen vor dem Landesparteitag ist die Präferenz der Antragsreihenfolge innerhalb von 2 Wochen unter allen hessischen Mitgliedern zu ermitteln und in der vorläufigen Tagesordnung zu berücksichtigen.
+
+(3) Anträge auf Satzungs- und Programmänderungen können als Dringlichkeitsanträge beim Landesparteitag eingereicht werden, wenn die Dringlichkeit begründet ist und mindestens 50 Unterstützer mit Name, Mitgliedsnummer und Unterschrift dies schriftlich bestätigt haben. Diese Anträge sind in einem separtem Tagesordnungspunkt Dringlichkeitsanträge zu behandeln.
+
+(4) Die Regelungen aus Absatz 1, 2 und 3 gelten ebenso für die Annahme von Positionspapieren der Piratenpartei Deutschland Landesverband Hessen. Positionspapiere dienen der defensiven Programmentwicklung und sind bis zum nächsten Landesparteitag gültig. Sie können mittels einfacher Mehrheit einmalig verlängert werden.
 
 # § 13 - Auflösung und Verschmelzung
 
