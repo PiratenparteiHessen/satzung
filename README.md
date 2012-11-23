@@ -1,5 +1,5 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag am 19. - 20.05.2012
-========================================================================================================================
+Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag 2012.2 in Frankenberg am 06. - 07.10.2012
+==============================================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
 
