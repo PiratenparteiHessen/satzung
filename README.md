@@ -123,7 +123,19 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 # § 9a - Der Landesvorstand
 
-(1) Dem Landesvorstand gehören fünf Piraten an: Ein Vorsitzender, ein stellvertretender Vorsitzender, der politische Geschäftsführer, der Landesschatzmeister und der Generalsekretär.
+(1) Der Landesvorstand besteht aus:
+
+  1. dem Vorsitzenden
+
+  2. dem stellvertretenden Vorsitzenden
+
+  3. dem politischen Geschäftsführer
+
+  4. dem Landesschatzmeister
+
+  5. dem Generalsekretär
+
+  6. bis zu vier Beisitzern, über deren Anzahl der Landesparteitag bestimmt
 
 (2) Der Landesvorstand vertritt die Piratenpartei Deutschland Landesverband Hessen nach innen und außen. Er führt die Geschäfte auf Grundlage der Beschlüsse der Parteiorgane.
 
