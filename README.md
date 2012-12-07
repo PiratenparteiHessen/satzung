@@ -219,7 +219,7 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
   4 Wochen vor dem Landesparteitag ist die Präferenz der Antragsreihenfolge innerhalb von 2 Wochen unter allen hessischen Mitgliedern zu ermitteln und in der vorläufigen Tagesordnung zu berücksichtigen.
 
-(3) Anträge auf Satzungs- und Programmänderungen können als Dringlichkeitsanträge beim Landesparteitag eingereicht werden, wenn die Dringlichkeit begründet ist und mindestens 50 Unterstützer mit Name, Mitgliedsnummer und Unterschrift dies schriftlich bestätigt haben. Diese Anträge sind in einem separtem Tagesordnungspunkt Dringlichkeitsanträge zu behandeln.
+(3) Anträge auf Satzungs- und Programmänderungen können als Dringlichkeitsanträge beim Landesparteitag eingereicht werden, wenn die Dringlichkeit begründet ist und mindestens 50 Unterstützer mit Name, Mitgliedsnummer und Unterschrift dies schriftlich bestätigt haben. Diese Anträge sind in einem separatem Tagesordnungspunkt Dringlichkeitsanträge zu behandeln.
 
 (4) Die Regelungen aus Absatz 1, 2 und 3 gelten ebenso für die Annahme von Positionspapieren der Piratenpartei Deutschland Landesverband Hessen. Positionspapiere dienen der defensiven Programmentwicklung und sind bis zum nächsten Landesparteitag gültig. Sie können mittels einfacher Mehrheit einmalig verlängert werden.
 
