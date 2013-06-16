@@ -1,5 +1,5 @@
-Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag 2012.2 in Frankenberg am 06. - 07.10.2012
-==============================================================================================================================================
+Entwurf der Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag 2013.3 in Eschborn-Niederhöchstadt am 25. - 26.05.2013
+===========================================================================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
 
@@ -31,7 +31,7 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (2) Über die Aufnahme entscheidet der Vorstand der zuständigen Gliederung, so lange die Satzung der Gliederung nichts anderes bestimmt. Die Ablehnung des Aufnahmeantrags muss der Bewerberin bzw. dem Bewerber gegenüber schriftlich unter Hinweis auf die Rechtsmittel begründet werden.
 
-(2a) Jeder Pirat gehört grundsätzlich der Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz hat. Bei nachvollziehbaren Gründen, die den Organisationsinteressen nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in Schriftform und wird von der nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in Schriftform begründet werden und kann im Einspruchsverfahren zur letzten Entscheidung dem Schiedsgericht vorgelegt werden.
+(2a) Jeder Pirat gehört grundsätzlich der Parteigliederung an, in dessen Zuständigkeitsgebiet er seinen Wohnsitz hat. Bei nachvollziehbaren Gründen, die den Organisationsinteressen nicht entgegen stehen, kann der Pirat die Zugehörigkeit in einer Parteigliederung seiner Wahl frei bestimmen. Der Antrag zur Aufnahme in eine andere Gliederung erfolgt in Textform und wird von der nächsthöheren Gliederung entschieden. Ein ablehnender Bescheid muss in Textform begründet werden und kann im Einspruchsverfahren zur letzten Entscheidung dem Schiedsgericht vorgelegt werden.
 
 (2b) Mit der Aufnahme in eine andere Gliederung verliert der Pirat das aktive und passive Wahlrecht in der alten Gliederung. Eventuell bekleidete Posten müssen freigegeben werden. Doppelmitgliedschaften sind unzulässig.
 
@@ -57,17 +57,23 @@ Die Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf
 
 (6) Jedes Mitglied des Landesverbandes ist berechtigt Anträge an den Landesvorstand zu stellen. 
 
-(7) Jedes Mitglied des Landesverbandes ist berechtigt, ein virtuelles Meinungsbild durch den Landesvorstand einholen zu lassen, sofern ein versandfertiger, möglichst neutraler und den Sachverhalt ausreichend beschreibender Text für die Einladungs-E-Mail vorliegt, eine Wiki-Seite im korrekten Namensraum mit dem Sachverhalt und zur anschließenden Sammlung der Pro- und Kontra-Argumente eingerichtet ist und sich die eine beinhaltete Fragestellung mit Ja, Nein oder Enthaltung beantworten lässt.
+(7) Jedes Mitglied des Landesverbandes ist berechtigt, ein virtuelles Meinungsbild (vMB) durch den Landesvorstand einholen zu lassen, sofern
 
-(8) Zwischen zwei Landesparteitagen kann der Landesverband neue politische Positionen beziehen, wenn dem ein virtuelles Meinungsbild vorausgegangen ist, welches alle folgende Bedingungen erfüllt:
+- eine Fragestellung vorliegt, die sich mit Ja, Nein oder Enthaltung beantworten lässt,
+- eine Wiki-Seite im korrekten Namensraum mit dem Sachverhalt und zur anschließenden Sammlung der Pro- und Kontra-Argumente eingerichtet ist, und
+- ein versandfertiger, möglichst neutraler und den Sachverhalt ausreichend beschreibender Einleitungstext für die Einladungs-E-Mail vorliegt.
 
-  1. Der Gegenstand der Positionierung ist klar zu formulieren.
+(8) Unabhängig von der Intention des das vMB beantragenden Piraten erhält ein virtuelles Meinungsbild positionierende Wirkung, wenn es neben den Erfordernissen aus (7) die folgenden Bedingungen erfüllt:
 
-  2. Die Laufzeit des virtuellen Meinungsbildes muss mindestens 14 Tage betragen. In dringenden Fällen kann die Laufzeit auf 7 oder 3 Tage verkürzt werden.
+  1. Der Gegenstand der Positionierung ist sachlich und klar formuliert.
 
-  3. An dem virtuellen Meinungsbild müssen sich mindestens ein Zehntel der hessischen Piraten beteiligen.
+  2. Die Laufzeit des virtuellen Meinungsbildes betrug mindestens 14 Tage. In dringenden Fällen kann die Laufzeit auf 7 oder ein Minimum von 3 Tage verkürzt werden. Die Verkürzung ist zu begründen.
 
-Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmenden hessischen Piraten dafür ausgesprochen haben. Diese ist nur bis zum nächsten Landesparteitag gültig.
+  3. An dem virtuellen Meinungsbild haben sich mindestens ein Zehntel der hessischen Piraten beteiligt.
+
+  4. Mindestens 2/3 der abstimmenden hessischen Piraten haben für eine der drei Optionen des vMB (Ja, Nein oder Enthaltung) gestimmt.
+
+Entsprechend so qualifizierten virtuellen Meinungsbildern kann der Landesverband vertreten durch den Landesvorstand zwischen zwei Landesparteitagen neue Positionen beziehen. Diese Positionierungen sind nur bis zum nächsten Landesparteitag gültig. Sie sind beim nächst folgenden Landesparteitag vom Landesvorstand als Anträge einzubringen und mit Vorrang zu behandeln.
 
 # § 5 - Beendigung der Mitgliedschaft
 
@@ -145,7 +151,7 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 (5) Auf Antrag eines Hundertstel der Piraten kann der Landesvorstand zum Zusammentritt aufgefordert und mit aktuellen Fragestellungen befasst werden.
 
-(6) Der Landesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Landesparteitages.
+(6) Der Landesvorstand beschließt über alle organisatorischen und politischen Fragen im Sinne der Beschlüsse des Landesparteitages und der vMBs mit positionierender Wirkung nach §4 (8).
 
 (7) Der Landesvorstand gibt sich eine Geschäftsordnung und veröffentlicht diese angemessen. Sie umfasst u.a. Regelungen zu:
 
@@ -173,7 +179,7 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
 (1) Der Landesparteitag ist die Mitgliederversammlung auf Landesebene.
 
-(2) Der Landesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn mindestens zweimal die Wurzel aus der Zahl der Mitglieder der Piratenpartei Deutschland, Landesverband Hessen es beantragen. Der Vorstand lädt jedes Mitglied mindestens 6 Wochen vorher in Textform ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
+(2) Der Landesparteitag tagt mindestens einmal jährlich. Die Einberufung erfolgt aufgrund Vorstandsbeschluss oder wenn mindestens zweimal die Wurzel aus der Zahl der Mitglieder der Piratenpartei Deutschland, Landesverband Hessen es beantragen. Der Vorstand lädt jedes Mitglied spätestens 2 Wochen vor dem Ende der Einreichungsphase nach §12 (2) in Textform ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 2 Wochen vor dem Parteitag sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 
 (3) gestrichen
 
@@ -213,7 +219,7 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 
   2. Änderungsphase:
 
-  Fristgerecht eingereichte Anträge auf Satzungs- oder Programmänderung sind bis 4 Wochen vor dem Landesparteitag änderbar. Innerhalb dieser Frist können nur noch Alternativanträge, die den gleichen Gegenstand eines eingreichten Antrags betreffen, beim Landesvorstand eingereicht werden.
+  Fristgerecht eingereichte Anträge auf Satzungs- oder Programmänderung sind bis 4 Wochen vor dem Landesparteitag änderbar. Innerhalb dieser Frist können nur noch Alternativanträge, die den gleichen Gegenstand eines eingereichten Antrags betreffen, beim Landesvorstand eingereicht werden.
 
   3. Vorbereitungsphase:
 
@@ -222,6 +228,8 @@ Die politische Position gilt als bezogen, wenn sich mindestens 2/3 der abstimmen
 (3) Anträge auf Satzungs- und Programmänderungen können als Dringlichkeitsanträge beim Landesparteitag eingereicht werden, wenn die Dringlichkeit begründet ist und mindestens 50 Unterstützer mit Name, Mitgliedsnummer und Unterschrift dies schriftlich bestätigt haben. Diese Anträge sind in einem separatem Tagesordnungspunkt Dringlichkeitsanträge zu behandeln.
 
 (4) Die Regelungen aus Absatz 1, 2 und 3 gelten ebenso für die Annahme von Positionspapieren der Piratenpartei Deutschland Landesverband Hessen. Positionspapiere dienen der defensiven Programmentwicklung und sind bis zum nächsten Landesparteitag gültig. Sie können mittels einfacher Mehrheit einmalig verlängert werden.
+
+(5) Antragstellende Piraten können per Geschäftsordnungsantrag die Änderbarkeit ihres Antrages nach Vorstellung und Diskussion ihrer Antrages beantragen. Die Versammlung befindet darüber mit zwei Drittel Mehrheit. Änderbare Anträge werden erneut zusammen mit dem Tagesordnungspunkt Dringlichkeitsanträge behandelt.
 
 # § 13 - Auflösung und Verschmelzung
 
