@@ -1,5 +1,5 @@
-Entwurf der Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag 2013.3 in Eschborn-Niederhöchstadt am 25. - 26.05.2013
-===========================================================================================================================================================================
+Aktuelle Satzung der Piratenpartei Deutschland Landesverband Hessen verabschiedet auf dem Landesparteitag 2013.3 in Eschborn-Niederhöchstadt am 25. - 26.05.2013
+================================================================================================================================================================
 
 # § 1 - Name, Sitz und Tätigkeitsgebiet
 
